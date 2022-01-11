@@ -8,4 +8,6 @@ Stack:
 - News API from newsapi.org
 
 ## SCREENSHOTS
+https://drive.google.com/drive/folders/1UjA5fDt8ewPuk4rbSPkZBx1707OycQhj
+
 
